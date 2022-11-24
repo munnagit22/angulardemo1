@@ -1,0 +1,30 @@
+.container
+{
+    width: 500px;
+    height: 400px;
+    background-color: pink;
+    display: flex;
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+h1
+{
+    color: red;
+}
+.loginform
+{
+    background-color: aqua;
+    height: 180px;
+    margin-top: 50px;
+    width: 300px;
+    padding-top: 60px;
+    padding-left: 40px;
+    position: relative;
+    left: 80px;
+    border-radius: 10px;
+}
+.error
+{
+    color: red;
+}
